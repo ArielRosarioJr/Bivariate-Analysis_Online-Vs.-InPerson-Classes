@@ -28,10 +28,3 @@ to understand the diverging trends in online and in-person learning outcomes and
 
 Further research is needed to comprehensively understand the impact of learning modes on student outcomes, potentially expanding the scope to include 
 different majors and courses at NotReal University.
-
-## Contact
-
-For any inquiries related to this study or the analysis, please contact the research team at NotReal University.
-
-This README provides a structured overview of the study's context, findings, implications, and how to navigate the repository. Modify it to 
-align with your specific repository structure and content.
